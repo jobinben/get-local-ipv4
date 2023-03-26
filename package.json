@@ -1,0 +1,20 @@
+{
+  "name": "get-local-ipv4",
+  "version": "1.0.0",
+  "description": "获取本地ipv4地址",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jobinben/get-local-ipv4.git"
+  },
+  "keywords": [],
+  "author": "Jobin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jobinben/get-local-ipv4/issues"
+  },
+  "homepage": "https://github.com/jobinben/get-local-ipv4#readme"
+}
